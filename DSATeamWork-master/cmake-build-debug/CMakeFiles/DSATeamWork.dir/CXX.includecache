@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/undou/Desktop/DSATeamWork-master/Heap.cpp
+Heap.h
+C:/Users/undou/Desktop/DSATeamWork-master/Heap.h
+algorithm
+-
+
+C:/Users/undou/Desktop/DSATeamWork-master/Heap.h
+Tests.h
+C:/Users/undou/Desktop/DSATeamWork-master/Tests.h
+list
+-
+
+C:/Users/undou/Desktop/DSATeamWork-master/Tests.cpp
+iostream
+-
+Tests.h
+C:/Users/undou/Desktop/DSATeamWork-master/Tests.h
+
+C:/Users/undou/Desktop/DSATeamWork-master/Tests.h
+Heap.h
+C:/Users/undou/Desktop/DSATeamWork-master/Heap.h
+assert.h
+-
+
+C:/Users/undou/Desktop/DSATeamWork-master/main.cpp
+iostream
+-
+Tests.h
+C:/Users/undou/Desktop/DSATeamWork-master/Tests.h
+
